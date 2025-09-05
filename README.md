@@ -29,7 +29,7 @@ Foi desenvolvido para rodar em **XAMPP**, com foco em boas práticas de programa
 - `src/ShoppingCart.php` → Classe principal do carrinho de compras.  
 - `src/Inventory.php` → Controle de estoque (produtos disponíveis).  
 - `src/Discount.php` → Regras de desconto.  
-- `docs/` → Pasta reservada para documentação extra, diagramas, etc.  
+- `docs/` → Pasta reservada para documentação extra.  
 - `index.php` → Ponto de entrada para testes no navegador.  
 
 ---
